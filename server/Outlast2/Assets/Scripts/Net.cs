@@ -9,6 +9,11 @@ using System.Net.Sockets;
 using System.Net;
 using UnityEngine.SceneManagement;
 
+//2018-12-13 宋柏慧
+//---------------------------------------------------------
+//这个脚本的功能为 发送分数到服务器
+//---------------------------------------------------------
+
 public class Net : MonoBehaviour
 {
     public byte[] GetBytes(string data)

@@ -6,6 +6,11 @@ using System.IO;
 using LitJson;
 using UnityEngine.SceneManagement;
 
+//2018-12-12 宋柏慧
+//---------------------------------------------------------
+//这个脚本的功能为 登录和注册的写入和判断
+//---------------------------------------------------------
+
 public class Login : MonoBehaviour
 {
 
